@@ -1,10 +1,15 @@
-# 🚀 Azure Cloud Infrastructure & File Synchronization Project
 
-**Student:** Sefa Ceylan  
-**Role:** Cloud Engineering Student  
-**Environment:** Microsoft Azure (Ubuntu 22.04 LTS)  
+
+# 🚀 Azure Virtual Machine & Azure File Share Assignment
+
+
 
 ---
+
+
+<img width="1536" height="1024" alt="azure_structure" src="https://github.com/user-attachments/assets/ea320a18-04f1-4119-8ee3-0478e93f6e06" />
+
+
 
 ## 📋 Project Overview
 This project demonstrates a cloud-based infrastructure setup using Microsoft Azure. The primary focus was creating a seamless link between an Ubuntu Virtual Machine and a local macOS environment using Azure File Share for real-time synchronization.
